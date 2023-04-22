@@ -1,0 +1,1 @@
+{"ast":null,"code":"const DetailPag = () => {};","map":{"version":3,"sources":["D:/Udemy/React course/advancedd next js app/pages/[meetupId]/index.js"],"names":["DetailPag"],"mappings":"AAAA,MAAMA,SAAS,GAAG,MAAM,CAEvB,CAFD","sourcesContent":["const DetailPag = () => {\r\n\r\n}"]},"metadata":{},"sourceType":"script"}
